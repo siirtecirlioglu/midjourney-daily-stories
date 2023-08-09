@@ -1,0 +1,13 @@
+[
+    {
+        "coverImage": "story1/event1.png",
+        "title": "First Day of BunBun",
+        "description": "This is a story about BunBun's day",
+        "events": [
+          {"image": "story1/event1.png", "description": "Once upon a time, in a peaceful meadow nestled between rolling hills and vibrant wildflowers, lived a fluffy little bunny named Bella. Bella was a curious and energetic bunny, always eager to explore the world around her. One sunny morning, Bella hopped out of her cozy burrow and stretched her paws, feeling the warmth of the sun on her soft fur. She twitched her nose and sniffed the air, catching the scent of fresh clover. With a joyful hop, she set off on her daily adventure. Bella\"s first stop was a patch of clover near the babbling brook. She nibbled on the tender leaves, savoring their sweet taste. As she ate, she watched dragonflies darting above the water and listened to the soothing melody of the birds in the trees."},
+          {"image": "story1/event2.png", "description": "After her delicious breakfast, Bella decided to explore the meadow\"s edge, where the tall grasses rustled in the gentle breeze. There, she discovered a hidden treasure – a patch of wild strawberries! Their juicy red fruits were a delightful treat, and Bella couldn\"t resist indulging herself. As the day wore on, Bella\"s exploration took her deeper into the meadow. She hopped over fallen logs, played peek-a-boo with the butterflies, and even met a friendly squirrel named Sammy, who shared stories about his own adventures in the forest."},
+          {"image": "story1/event3.png", "description": "In the afternoon, Bella\"s curiosity led her to a shady grove, where a majestic old oak tree stood. Under its branches, she found a comfortable spot to rest. As she closed her eyes, Bella listened to the soft rustling of leaves and felt a sense of contentment wash over her. When the sun began to dip towards the horizon, Bella knew it was time to head back to her burrow. With a final hop, she made her way home, carrying with her the memories of a day filled with excitement and discovery."},
+          {"image": "story1/event4.png", "description": "As the stars appeared in the night sky, Bella curled up in her burrow, her heart full of gratitude for the wonderful day she had experienced. With dreams of new adventures to come, she closed her eyes and fell into a peaceful sleep, ready to embrace whatever the next day in the meadow would bring. And so, in the tranquil meadow, Bella the bunny\"s days were filled with exploration, friendship, and the simple joys of nature."}
+        ]
+      }
+]
